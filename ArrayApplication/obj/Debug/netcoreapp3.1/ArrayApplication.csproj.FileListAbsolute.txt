@@ -1,0 +1,12 @@
+C:\Users\ryann\source\repos\ArrayApplication\ArrayApplication\bin\Debug\netcoreapp3.1\ArrayApplication.exe
+C:\Users\ryann\source\repos\ArrayApplication\ArrayApplication\bin\Debug\netcoreapp3.1\ArrayApplication.deps.json
+C:\Users\ryann\source\repos\ArrayApplication\ArrayApplication\bin\Debug\netcoreapp3.1\ArrayApplication.runtimeconfig.json
+C:\Users\ryann\source\repos\ArrayApplication\ArrayApplication\bin\Debug\netcoreapp3.1\ArrayApplication.runtimeconfig.dev.json
+C:\Users\ryann\source\repos\ArrayApplication\ArrayApplication\bin\Debug\netcoreapp3.1\ArrayApplication.dll
+C:\Users\ryann\source\repos\ArrayApplication\ArrayApplication\bin\Debug\netcoreapp3.1\ArrayApplication.pdb
+C:\Users\ryann\source\repos\ArrayApplication\ArrayApplication\obj\Debug\netcoreapp3.1\ArrayApplication.AssemblyInfoInputs.cache
+C:\Users\ryann\source\repos\ArrayApplication\ArrayApplication\obj\Debug\netcoreapp3.1\ArrayApplication.AssemblyInfo.cs
+C:\Users\ryann\source\repos\ArrayApplication\ArrayApplication\obj\Debug\netcoreapp3.1\ArrayApplication.csproj.CoreCompileInputs.cache
+C:\Users\ryann\source\repos\ArrayApplication\ArrayApplication\obj\Debug\netcoreapp3.1\ArrayApplication.dll
+C:\Users\ryann\source\repos\ArrayApplication\ArrayApplication\obj\Debug\netcoreapp3.1\ArrayApplication.pdb
+C:\Users\ryann\source\repos\ArrayApplication\ArrayApplication\obj\Debug\netcoreapp3.1\ArrayApplication.genruntimeconfig.cache
