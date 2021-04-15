@@ -1,0 +1,13 @@
+C:\Users\ryann\source\repos\ConstantsAndLiterals\ConstantsAndLiterals\bin\Debug\netcoreapp3.1\ConstantsAndLiterals.exe
+C:\Users\ryann\source\repos\ConstantsAndLiterals\ConstantsAndLiterals\bin\Debug\netcoreapp3.1\ConstantsAndLiterals.deps.json
+C:\Users\ryann\source\repos\ConstantsAndLiterals\ConstantsAndLiterals\bin\Debug\netcoreapp3.1\ConstantsAndLiterals.runtimeconfig.json
+C:\Users\ryann\source\repos\ConstantsAndLiterals\ConstantsAndLiterals\bin\Debug\netcoreapp3.1\ConstantsAndLiterals.runtimeconfig.dev.json
+C:\Users\ryann\source\repos\ConstantsAndLiterals\ConstantsAndLiterals\bin\Debug\netcoreapp3.1\ConstantsAndLiterals.dll
+C:\Users\ryann\source\repos\ConstantsAndLiterals\ConstantsAndLiterals\bin\Debug\netcoreapp3.1\ConstantsAndLiterals.pdb
+C:\Users\ryann\source\repos\ConstantsAndLiterals\ConstantsAndLiterals\obj\Debug\netcoreapp3.1\ConstantsAndLiterals.csprojAssemblyReference.cache
+C:\Users\ryann\source\repos\ConstantsAndLiterals\ConstantsAndLiterals\obj\Debug\netcoreapp3.1\ConstantsAndLiterals.AssemblyInfoInputs.cache
+C:\Users\ryann\source\repos\ConstantsAndLiterals\ConstantsAndLiterals\obj\Debug\netcoreapp3.1\ConstantsAndLiterals.AssemblyInfo.cs
+C:\Users\ryann\source\repos\ConstantsAndLiterals\ConstantsAndLiterals\obj\Debug\netcoreapp3.1\ConstantsAndLiterals.csproj.CoreCompileInputs.cache
+C:\Users\ryann\source\repos\ConstantsAndLiterals\ConstantsAndLiterals\obj\Debug\netcoreapp3.1\ConstantsAndLiterals.dll
+C:\Users\ryann\source\repos\ConstantsAndLiterals\ConstantsAndLiterals\obj\Debug\netcoreapp3.1\ConstantsAndLiterals.pdb
+C:\Users\ryann\source\repos\ConstantsAndLiterals\ConstantsAndLiterals\obj\Debug\netcoreapp3.1\ConstantsAndLiterals.genruntimeconfig.cache

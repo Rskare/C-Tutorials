@@ -1,0 +1,13 @@
+C:\Users\ryann\source\repos\EncapsulationPrivate\EncapsulationPrivate\bin\Debug\netcoreapp3.1\EncapsulationPrivate.exe
+C:\Users\ryann\source\repos\EncapsulationPrivate\EncapsulationPrivate\bin\Debug\netcoreapp3.1\EncapsulationPrivate.deps.json
+C:\Users\ryann\source\repos\EncapsulationPrivate\EncapsulationPrivate\bin\Debug\netcoreapp3.1\EncapsulationPrivate.runtimeconfig.json
+C:\Users\ryann\source\repos\EncapsulationPrivate\EncapsulationPrivate\bin\Debug\netcoreapp3.1\EncapsulationPrivate.runtimeconfig.dev.json
+C:\Users\ryann\source\repos\EncapsulationPrivate\EncapsulationPrivate\bin\Debug\netcoreapp3.1\EncapsulationPrivate.dll
+C:\Users\ryann\source\repos\EncapsulationPrivate\EncapsulationPrivate\bin\Debug\netcoreapp3.1\EncapsulationPrivate.pdb
+C:\Users\ryann\source\repos\EncapsulationPrivate\EncapsulationPrivate\obj\Debug\netcoreapp3.1\EncapsulationPrivate.csprojAssemblyReference.cache
+C:\Users\ryann\source\repos\EncapsulationPrivate\EncapsulationPrivate\obj\Debug\netcoreapp3.1\EncapsulationPrivate.AssemblyInfoInputs.cache
+C:\Users\ryann\source\repos\EncapsulationPrivate\EncapsulationPrivate\obj\Debug\netcoreapp3.1\EncapsulationPrivate.AssemblyInfo.cs
+C:\Users\ryann\source\repos\EncapsulationPrivate\EncapsulationPrivate\obj\Debug\netcoreapp3.1\EncapsulationPrivate.csproj.CoreCompileInputs.cache
+C:\Users\ryann\source\repos\EncapsulationPrivate\EncapsulationPrivate\obj\Debug\netcoreapp3.1\EncapsulationPrivate.dll
+C:\Users\ryann\source\repos\EncapsulationPrivate\EncapsulationPrivate\obj\Debug\netcoreapp3.1\EncapsulationPrivate.pdb
+C:\Users\ryann\source\repos\EncapsulationPrivate\EncapsulationPrivate\obj\Debug\netcoreapp3.1\EncapsulationPrivate.genruntimeconfig.cache

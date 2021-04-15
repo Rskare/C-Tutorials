@@ -1,0 +1,12 @@
+C:\Users\ryann\source\repos\EncapsulationInternal\EncapsulationInternal\bin\Debug\netcoreapp3.1\EncapsulationInternal.exe
+C:\Users\ryann\source\repos\EncapsulationInternal\EncapsulationInternal\bin\Debug\netcoreapp3.1\EncapsulationInternal.deps.json
+C:\Users\ryann\source\repos\EncapsulationInternal\EncapsulationInternal\bin\Debug\netcoreapp3.1\EncapsulationInternal.runtimeconfig.json
+C:\Users\ryann\source\repos\EncapsulationInternal\EncapsulationInternal\bin\Debug\netcoreapp3.1\EncapsulationInternal.runtimeconfig.dev.json
+C:\Users\ryann\source\repos\EncapsulationInternal\EncapsulationInternal\bin\Debug\netcoreapp3.1\EncapsulationInternal.dll
+C:\Users\ryann\source\repos\EncapsulationInternal\EncapsulationInternal\bin\Debug\netcoreapp3.1\EncapsulationInternal.pdb
+C:\Users\ryann\source\repos\EncapsulationInternal\EncapsulationInternal\obj\Debug\netcoreapp3.1\EncapsulationInternal.AssemblyInfoInputs.cache
+C:\Users\ryann\source\repos\EncapsulationInternal\EncapsulationInternal\obj\Debug\netcoreapp3.1\EncapsulationInternal.AssemblyInfo.cs
+C:\Users\ryann\source\repos\EncapsulationInternal\EncapsulationInternal\obj\Debug\netcoreapp3.1\EncapsulationInternal.csproj.CoreCompileInputs.cache
+C:\Users\ryann\source\repos\EncapsulationInternal\EncapsulationInternal\obj\Debug\netcoreapp3.1\EncapsulationInternal.dll
+C:\Users\ryann\source\repos\EncapsulationInternal\EncapsulationInternal\obj\Debug\netcoreapp3.1\EncapsulationInternal.pdb
+C:\Users\ryann\source\repos\EncapsulationInternal\EncapsulationInternal\obj\Debug\netcoreapp3.1\EncapsulationInternal.genruntimeconfig.cache
