@@ -1,0 +1,13 @@
+C:\Users\ryann\source\repos\VariableDefinition\VariableDefinition\bin\Debug\netcoreapp3.1\VariableDefinition.exe
+C:\Users\ryann\source\repos\VariableDefinition\VariableDefinition\bin\Debug\netcoreapp3.1\VariableDefinition.deps.json
+C:\Users\ryann\source\repos\VariableDefinition\VariableDefinition\bin\Debug\netcoreapp3.1\VariableDefinition.runtimeconfig.json
+C:\Users\ryann\source\repos\VariableDefinition\VariableDefinition\bin\Debug\netcoreapp3.1\VariableDefinition.runtimeconfig.dev.json
+C:\Users\ryann\source\repos\VariableDefinition\VariableDefinition\bin\Debug\netcoreapp3.1\VariableDefinition.dll
+C:\Users\ryann\source\repos\VariableDefinition\VariableDefinition\bin\Debug\netcoreapp3.1\VariableDefinition.pdb
+C:\Users\ryann\source\repos\VariableDefinition\VariableDefinition\obj\Debug\netcoreapp3.1\VariableDefinition.csprojAssemblyReference.cache
+C:\Users\ryann\source\repos\VariableDefinition\VariableDefinition\obj\Debug\netcoreapp3.1\VariableDefinition.AssemblyInfoInputs.cache
+C:\Users\ryann\source\repos\VariableDefinition\VariableDefinition\obj\Debug\netcoreapp3.1\VariableDefinition.AssemblyInfo.cs
+C:\Users\ryann\source\repos\VariableDefinition\VariableDefinition\obj\Debug\netcoreapp3.1\VariableDefinition.csproj.CoreCompileInputs.cache
+C:\Users\ryann\source\repos\VariableDefinition\VariableDefinition\obj\Debug\netcoreapp3.1\VariableDefinition.dll
+C:\Users\ryann\source\repos\VariableDefinition\VariableDefinition\obj\Debug\netcoreapp3.1\VariableDefinition.pdb
+C:\Users\ryann\source\repos\VariableDefinition\VariableDefinition\obj\Debug\netcoreapp3.1\VariableDefinition.genruntimeconfig.cache
