@@ -1,0 +1,13 @@
+C:\Users\ryann\source\repos\BoxApplication\BoxApplication\bin\Debug\netcoreapp3.1\BoxApplication.exe
+C:\Users\ryann\source\repos\BoxApplication\BoxApplication\bin\Debug\netcoreapp3.1\BoxApplication.deps.json
+C:\Users\ryann\source\repos\BoxApplication\BoxApplication\bin\Debug\netcoreapp3.1\BoxApplication.runtimeconfig.json
+C:\Users\ryann\source\repos\BoxApplication\BoxApplication\bin\Debug\netcoreapp3.1\BoxApplication.runtimeconfig.dev.json
+C:\Users\ryann\source\repos\BoxApplication\BoxApplication\bin\Debug\netcoreapp3.1\BoxApplication.dll
+C:\Users\ryann\source\repos\BoxApplication\BoxApplication\bin\Debug\netcoreapp3.1\BoxApplication.pdb
+C:\Users\ryann\source\repos\BoxApplication\BoxApplication\obj\Debug\netcoreapp3.1\BoxApplication.csprojAssemblyReference.cache
+C:\Users\ryann\source\repos\BoxApplication\BoxApplication\obj\Debug\netcoreapp3.1\BoxApplication.AssemblyInfoInputs.cache
+C:\Users\ryann\source\repos\BoxApplication\BoxApplication\obj\Debug\netcoreapp3.1\BoxApplication.AssemblyInfo.cs
+C:\Users\ryann\source\repos\BoxApplication\BoxApplication\obj\Debug\netcoreapp3.1\BoxApplication.csproj.CoreCompileInputs.cache
+C:\Users\ryann\source\repos\BoxApplication\BoxApplication\obj\Debug\netcoreapp3.1\BoxApplication.dll
+C:\Users\ryann\source\repos\BoxApplication\BoxApplication\obj\Debug\netcoreapp3.1\BoxApplication.pdb
+C:\Users\ryann\source\repos\BoxApplication\BoxApplication\obj\Debug\netcoreapp3.1\BoxApplication.genruntimeconfig.cache

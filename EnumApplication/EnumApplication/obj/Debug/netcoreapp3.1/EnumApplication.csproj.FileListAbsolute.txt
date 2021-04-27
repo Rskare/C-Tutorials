@@ -1,0 +1,13 @@
+C:\Users\ryann\source\repos\EnumApplication\EnumApplication\bin\Debug\netcoreapp3.1\EnumApplication.exe
+C:\Users\ryann\source\repos\EnumApplication\EnumApplication\bin\Debug\netcoreapp3.1\EnumApplication.deps.json
+C:\Users\ryann\source\repos\EnumApplication\EnumApplication\bin\Debug\netcoreapp3.1\EnumApplication.runtimeconfig.json
+C:\Users\ryann\source\repos\EnumApplication\EnumApplication\bin\Debug\netcoreapp3.1\EnumApplication.runtimeconfig.dev.json
+C:\Users\ryann\source\repos\EnumApplication\EnumApplication\bin\Debug\netcoreapp3.1\EnumApplication.dll
+C:\Users\ryann\source\repos\EnumApplication\EnumApplication\bin\Debug\netcoreapp3.1\EnumApplication.pdb
+C:\Users\ryann\source\repos\EnumApplication\EnumApplication\obj\Debug\netcoreapp3.1\EnumApplication.csprojAssemblyReference.cache
+C:\Users\ryann\source\repos\EnumApplication\EnumApplication\obj\Debug\netcoreapp3.1\EnumApplication.AssemblyInfoInputs.cache
+C:\Users\ryann\source\repos\EnumApplication\EnumApplication\obj\Debug\netcoreapp3.1\EnumApplication.AssemblyInfo.cs
+C:\Users\ryann\source\repos\EnumApplication\EnumApplication\obj\Debug\netcoreapp3.1\EnumApplication.csproj.CoreCompileInputs.cache
+C:\Users\ryann\source\repos\EnumApplication\EnumApplication\obj\Debug\netcoreapp3.1\EnumApplication.dll
+C:\Users\ryann\source\repos\EnumApplication\EnumApplication\obj\Debug\netcoreapp3.1\EnumApplication.pdb
+C:\Users\ryann\source\repos\EnumApplication\EnumApplication\obj\Debug\netcoreapp3.1\EnumApplication.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\ryann\source\repos\Books2\Books2\bin\Debug\netcoreapp3.1\Books2.exe
+C:\Users\ryann\source\repos\Books2\Books2\bin\Debug\netcoreapp3.1\Books2.deps.json
+C:\Users\ryann\source\repos\Books2\Books2\bin\Debug\netcoreapp3.1\Books2.runtimeconfig.json
+C:\Users\ryann\source\repos\Books2\Books2\bin\Debug\netcoreapp3.1\Books2.runtimeconfig.dev.json
+C:\Users\ryann\source\repos\Books2\Books2\bin\Debug\netcoreapp3.1\Books2.dll
+C:\Users\ryann\source\repos\Books2\Books2\bin\Debug\netcoreapp3.1\Books2.pdb
+C:\Users\ryann\source\repos\Books2\Books2\obj\Debug\netcoreapp3.1\Books2.csprojAssemblyReference.cache
+C:\Users\ryann\source\repos\Books2\Books2\obj\Debug\netcoreapp3.1\Books2.AssemblyInfoInputs.cache
+C:\Users\ryann\source\repos\Books2\Books2\obj\Debug\netcoreapp3.1\Books2.AssemblyInfo.cs
+C:\Users\ryann\source\repos\Books2\Books2\obj\Debug\netcoreapp3.1\Books2.csproj.CoreCompileInputs.cache
+C:\Users\ryann\source\repos\Books2\Books2\obj\Debug\netcoreapp3.1\Books2.dll
+C:\Users\ryann\source\repos\Books2\Books2\obj\Debug\netcoreapp3.1\Books2.pdb
+C:\Users\ryann\source\repos\Books2\Books2\obj\Debug\netcoreapp3.1\Books2.genruntimeconfig.cache
